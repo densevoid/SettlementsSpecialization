@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <IncidentDef>
+    <defName>TestEvent</defName>
+    <label>testevent</label>
+    <category>Misc</category>
+    <allowedBiomes>
+      <li>Tundra</li>
+      <li>AridShrubland</li>
+    </allowedBiomes>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <workerClass>SettlementsSpecialization.Events.IncidentWorker_TestIncident</workerClass>
+    <baseChance>44</baseChance>
+    <minRefireDays>30</minRefireDays>
+  </IncidentDef>
+</Defs>

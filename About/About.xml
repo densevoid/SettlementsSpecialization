@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Settlements Specialization</name>
+	<author>Densevoid</author>
+	<packageId>Densevoid.SetSpec</packageId>
+	<description>
+		Test
+	</description>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+</ModMetaData>
+
+
+
